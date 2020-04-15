@@ -1,0 +1,1 @@
+conlose.log("Hola mundo");
